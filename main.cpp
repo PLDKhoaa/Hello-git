@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-int sum(int a, int b) {
+int main()
     return a+b;
 }
